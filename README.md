@@ -1,0 +1,3 @@
+# Engineering-Observation
+For School Project, bascially a bunch of graphs and data
+Well, these are some dumb measurements and data I got for my project...
